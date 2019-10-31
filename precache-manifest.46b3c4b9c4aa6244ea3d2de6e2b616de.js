@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71a89d18356abd8a688dc484ea4e7a2d",
+    "revision": "ba1e0fe26d0313ed5d5e59eec7b48049",
     "url": "/rinaface/index.html"
   },
   {
-    "revision": "3ecf0ae9508225c64a1e",
+    "revision": "61ba2fb65dd5a1721796",
     "url": "/rinaface/static/css/main.67955dc0.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rinaface/static/js/2.49239468.chunk.js"
   },
   {
-    "revision": "3ecf0ae9508225c64a1e",
-    "url": "/rinaface/static/js/main.93ddb1d1.chunk.js"
+    "revision": "61ba2fb65dd5a1721796",
+    "url": "/rinaface/static/js/main.f8d50ef8.chunk.js"
   },
   {
     "revision": "a450a09f71376e9cce3c",

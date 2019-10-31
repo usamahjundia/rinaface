@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rinaface/precache-manifest.ce35c2208d342cca8f33a7cb65016b90.js"
+  "/rinaface/precache-manifest.46b3c4b9c4aa6244ea3d2de6e2b616de.js"
 );
 
 self.addEventListener('message', (event) => {
