@@ -1,24 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
+// import {Route,Switch,NavLink} from "react-router-dom"
 import './App.css';
+import Board from "./Board"
+// import Home from "./Home"
+// import About from "./About"
+// import Contact from "./Contact"
 
+// never use a for links, use link component
+// use function instead of the class when you need prop
+// for a route
+// when using function, use render if you dont want
+// to re instantiate comp
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <Board/>
     </div>
   );
 }

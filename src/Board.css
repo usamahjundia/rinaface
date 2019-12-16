@@ -1,0 +1,8 @@
+.Board {
+    display: inline-block;
+}
+
+.Board-tiles {
+    display: flex;
+    flex-direction: column;
+}

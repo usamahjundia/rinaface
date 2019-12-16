@@ -1,0 +1,19 @@
+.Tile {
+    height: 45px;
+    width: 45px;
+    border: solid 1px rgb(95%, 95%, 95%);
+    box-sizing: border-box;
+}
+
+.Tile:hover {
+    border: solid 3px rgb(95%, 95%, 95%);
+    box-sizing: border-box;
+}
+
+.active {
+    background: #e0309f;
+}
+
+.nonactive {
+    background: white;
+}
